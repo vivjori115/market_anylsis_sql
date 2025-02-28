@@ -4,6 +4,7 @@
 
 ## Project Overview
 Leveraged SQL and analytics tools to address 20+ key business questions, driving actionable insights for decision-making. Analyzed customer behavior data using SQL, identifying high-churn segments and recommending targeted marketing strategies that increased retention by 18%. Identified top-performing areas, peak order times, and reorder trends, leading to a 15% improvement in customer satisfaction through targeted marketing strategies.
+This project leverages SQL and Excel to analyze customer behavior and business trends. Key insights include identifying high-churn customer segments, peak order times, and reorder trends, leading to data-driven decision-making.
 
 ## Steps Performed in Market Analytics SQL Project
 
@@ -25,10 +26,7 @@ Leveraged SQL and analytics tools to address 20+ key business questions, driving
 - Re-import all cleaned tables into SQL Workbench.
 
 ### Step 6: Continue with Analysis
-# Market Analysis (SQL, Excel) - Dec 2024
 
-## Project Overview
-This project leverages SQL and Excel to analyze customer behavior and business trends. Key insights include identifying high-churn customer segments, peak order times, and reorder trends, leading to data-driven decision-making.
 
 ## Dataset
 The dataset includes multiple tables:
